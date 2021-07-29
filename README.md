@@ -1,0 +1,1 @@
+# Python_covid_details
